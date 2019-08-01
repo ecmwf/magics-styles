@@ -1,0 +1,14 @@
+
+[
+  {
+    "styles": [
+      "tourism-index-style"
+    ],
+    "match": [
+      {
+        "standard_name": "cit-proj",
+        "units": "1"
+      }
+    ]
+  }
+]
