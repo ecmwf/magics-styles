@@ -53,9 +53,9 @@ The match key is an array of list of criteria.
   }
 ]
 
-In this example, if the 2 criteria can be matched in the data to plot, then Magics will apply the last or first (??) style listed in the styles list.
+In this example, if the 2 criteria can be matched in the data to plot, then Magics will apply the last or first (?? to be checked) style listed in the styles list.
 
-Note that we can specify several list of criteria, in that case an OR logic will be applied to find the match. 
+Note that you can specify several list of criteria, in that case an OR logic will be applied to find the match. 
 
 
 
