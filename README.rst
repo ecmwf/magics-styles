@@ -8,6 +8,8 @@ Features:
 - can plot GRIB 1 and 2 coded data, gaussian grid, regularly spaced grid and fitted data
 
 
+MAGICS_STYLE_PATH 
+
 License
 -------
 
