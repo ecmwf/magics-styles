@@ -8,10 +8,54 @@ An automatic contour selection is implemented in Magics. When chosen, Magics wil
 .. code:: python
 	mcont(contour_automatic_setting = "ecmwf") 
 
+Magics Definition files
+-----------------------
+
+Magics will browse the directories define in the environment variable  **MAGICS_STYLE_PATH**.
+Note that if *ecmwf* is found in   **MAGICS_STYLE_PATH**, it will be interpreted as the default magics library path. 
+
+If a directory contains a file *styles.json*, Magics will interpret it as a library of styles.
+Here is an example :
+.. code:: json 
+{
+    "tourism-index-style" :
+      {
+        "contour" :  "off",
+        "contour_shade" :  "on",
+        "contour_level_selection_type"  :  "list",
+        "contour_level_list": "0.0/0.1/0.2/0.3/0.4/0.5/0.6/0.7/0.8/0.9/1.",
+        "contour_interpolation_floor" : 0.00,
+        "contour_interpolation_ceiling" : 1.00,
+        "contour_shade_method" : "area_fill",
+        "contour_shade_colour_method" : "palette",
+        "contour_shade_palette_name" : "m_orange_purple_10"
+      }
+}
+
+Where *tourism-index-style* is the name of the style and the dictionary attached to it the list of the Magics parameters to apply when using this style.
 
 
 
-MAGICS_STYLE_PATH 
+.. code:: json
+[
+  {
+    "styles": [
+      "tourism-index-style"
+    ],
+    "match": [
+      {
+        "standard_name": "cit-proj",
+        "units": "1"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
 
 License
 -------
