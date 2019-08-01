@@ -1,11 +1,13 @@
 
-Magics is the latest generation of the ECMWF's meteorological plotting software and can be either
-accessed directly through its Python or Fortran interfaces or by using Metview.
 
-Features:
+Magics automatic styling library 
+=================================
 
-- supports plotting of contours, wind fields, observations, satellite images, symbols, text, axis and graphs (including boxplots)
-- can plot GRIB 1 and 2 coded data, gaussian grid, regularly spaced grid and fitted data
+An automatic contour selection is implemented in Magics. When chosen, Magics will try to detect which parameter is being displayed and apply a predefined style. 
+
+mcont(contour_automatic_setting = "ecmwf") 
+
+
 
 
 MAGICS_STYLE_PATH 
