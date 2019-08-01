@@ -34,7 +34,9 @@ Here is an example :
 
 Where *tourism-index-style* is the name of the style and the dictionary attached to it the list of the Magics parameters to apply when using this style.
 
-
+For any other json files, Magics will interpret as rules: 
+A rule links some criteria to match to the named style to use.
+The match key is an array of list of criteria. 
 
 .. code:: json
 [
@@ -51,7 +53,9 @@ Where *tourism-index-style* is the name of the style and the dictionary attached
   }
 ]
 
+In this example, if the 2 criteria can be matched in the data to plot, then Magics will apply the last or first (??) style listed in the styles list.
 
+Note that we can specify several list of criteria, in that case an OR logic will be applied to find the match. 
 
 
 
