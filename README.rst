@@ -3,8 +3,9 @@
 Magics automatic styling library 
 =================================
 
-An automatic contour selection is implemented in Magics. When chosen, Magics will try to detect which parameter is being plotted and apply a predefined style::
+An automatic contour selection is implemented in Magics. When chosen, Magics will try to detect which parameter is being plotted and apply a predefined style.
 
+:: 
 mcont(contour_automatic_setting = "ecmwf") 
 
 
