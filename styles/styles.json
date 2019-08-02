@@ -42,6 +42,20 @@
         "contour_shade_colour_list" : "#ffffe0/#ddf8c2/#baf0a3/#94e782/#6ade5d/#3ad333/#00c600",
         "contour_description" : "Index for tourism application",
         "contour_title" : "Index for tourism application"
+      },
+      "tourism-optimal-days-number" :    
+      {
+        "contour" :  "off",
+        "contour_shade" :  "on",
+        "contour_level_selection_type"  :  "list",
+        "contour_level_list": "0/5/10/15/20/25/30/50",
+        "contour_interpolation_floor" : 0.00,
+        "contour_interpolation_ceiling" : 50,
+        "contour_shade_method" : "area_fill",
+        "contour_shade_colour_method" : "list",
+        "contour_shade_colour_list" : "#ffffe0/#dff9e4/#bdf3e8/#99ecec/#6fe5f1/#3edcf7/#00d0ff",
+        "contour_description" : "Index for tourism application",
+        "contour_title" : "Index for tourism application"
       }
 
 }

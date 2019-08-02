@@ -29,5 +29,15 @@
         "long_name": "No of fair days"
       }
     ]
+  },
+  {
+    "styles": [
+      "tourism-optimal-days-number"
+    ],
+    "match": [
+      {
+        "long_name": "No of optimal days"
+      }
+    ]
   }
 ]
