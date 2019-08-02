@@ -2,12 +2,31 @@
 [
   {
     "styles": [
-      "tourism-index-style"
+      "tourism-index"
     ],
     "match": [
       {
-        "standard_name": "cit-proj",
-        "units": "1"
+        "long_name": "Daily value of Climate Index for Tourism for climate projections"
+      }
+    ]
+  },
+   {
+    "styles": [
+      "tourism-unfair-days-number"
+    ],
+    "match": [
+      {
+        "long_name": "No of unfavourable days"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "tourism-fair-days-number"
+    ],
+    "match": [
+      {
+        "long_name": "No of fair days"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-    "tourism-index-style" :    
+    "tourism-index" :    
       {
         "contour" :  "off",
         "contour_shade" :  "on",
@@ -8,7 +8,40 @@
         "contour_interpolation_floor" : 0.00,
         "contour_interpolation_ceiling" : 1.00,
         "contour_shade_method" : "area_fill",
-        "contour_shade_colour_method" : "palette",
-        "contour_shade_palette_name" : "m_orange_purple_10"
+        "contour_shade_colour_method" : "list",
+        "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+        "contour_description" : "Index for tourism application",
+        "contour_title" : "Index for tourism application"
+      },
+
+    "tourism-unfair-days-number" :    
+      {
+        "contour" :  "off",
+        "contour_shade" :  "on",
+        "contour_level_selection_type"  :  "list",
+        "contour_level_list": "0/5/10/15/20/25/30/50",
+        "contour_interpolation_floor" : 0.00,
+        "contour_interpolation_ceiling" : 50,
+        "contour_shade_method" : "area_fill",
+        "contour_shade_colour_method" : "list",
+        "contour_shade_colour_list" : "#ffffe0/#fde1c5/#fbc1aa/#f9a18d/#f67e6e/#f4544a/#ee0000",
+        "contour_description" : "Index for tourism application",
+        "contour_title" : "Index for tourism application"
+      },
+
+    "tourism-fair-days-number" :    
+      {
+        "contour" :  "off",
+        "contour_shade" :  "on",
+        "contour_level_selection_type"  :  "list",
+        "contour_level_list": "0/5/10/15/20/25/30/50",
+        "contour_interpolation_floor" : 0.00,
+        "contour_interpolation_ceiling" : 50,
+        "contour_shade_method" : "area_fill",
+        "contour_shade_colour_method" : "list",
+        "contour_shade_colour_list" : "#ffffe0/#ddf8c2/#baf0a3/#94e782/#6ade5d/#3ad333/#00c600",
+        "contour_description" : "Index for tourism application",
+        "contour_title" : "Index for tourism application"
       }
+
 }
