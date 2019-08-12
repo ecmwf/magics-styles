@@ -13,6 +13,20 @@
         "contour_description" : "Index for tourism application",
         "contour_title" : "Index for tourism application"
       },
+      "tourism-fire_index" :    
+      {
+        "contour" :  "off",
+        "contour_shade" :  "on",
+        "contour_level_selection_type"  :  "list",
+        "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+        "contour_interpolation_floor" : 0.00,
+        "contour_interpolation_ceiling" : 100.00,
+        "contour_shade_method" : "area_fill",
+        "contour_shade_colour_method" : "list",
+        "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+        "contour_description" : "Index for tourism application",
+        "contour_title" : "Index for tourism fire application"
+      },
 
     "tourism-unfair-days-number" :    
       {

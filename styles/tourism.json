@@ -10,6 +10,17 @@
       }
     ]
   },
+  {
+    "styles": [
+      "tourism-fire-index"
+    ],
+    "match": [
+      
+      {
+         "standard_name" : "fwi-mean-jjas"
+      }
+    ]
+  },
    {
     "styles": [
       "tourism-unfair-days-number"
@@ -40,4 +51,5 @@
       }
     ]
   }
+   
 ]
