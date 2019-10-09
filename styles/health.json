@@ -1,0 +1,14 @@
+
+[
+  {
+    "styles": [
+      "suitability-index"
+    ],
+    "match": [
+      {
+        "standard_name": "suitability_NON_CDM_NON_CDM"
+      }
+    ]
+  }
+   
+]
