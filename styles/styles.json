@@ -9,7 +9,7 @@
         "contour_interpolation_ceiling" : 100.00,
         "contour_shade_method" : "area_fill",
         "contour_shade_colour_method" : "list",
-        "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+        "contour_shade_colour_list" : "#ffffff/#ffffe0/#ffd700/#ffa500/#ff8c00/#ff0000/#8b0000",
         "contour_description" : "Index for suitability application",
         "contour_title" : "Index for suitability application"
       },
