@@ -117,7 +117,7 @@
       "contour_label": "off",
       "contour_description": "Yearly recipitation",
       "contour_level_selection_type": "level_list",
-      "contour_level_list": "0/250/500/1000/2000/3000",
+      "contour_level_list": "0/250/500/1000/2000/4000",
       "contour_legend_text": "Yearly precipitation",
       "contour_shade": "on",
       "contour_shade_method": "area_fill",
