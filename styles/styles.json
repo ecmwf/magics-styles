@@ -97,5 +97,18 @@
         "contour_shade_method": "area_fill",
         "contour_shade_colour_method": "list",
         "contour_shade_colour_list": "rgb(0.02,0.19,0.38)/rgb(0.04,0.23,0.44)/rgb(0.07,0.28,0.51)/rgb(0.09,0.32,0.57)/rgb(0.11,0.37,0.63)/rgb(0.14,0.41,0.68)/rgb(0.17,0.45,0.70)/rgb(0.19,0.49,0.72)/rgb(0.22,0.52,0.74)/rgb(0.25,0.56,0.76)/rgb(0.30,0.60,0.78)/rgb(0.37,0.64,0.80)/rgb(0.43,0.68,0.82)/rgb(0.50,0.73,0.85)/rgb(0.57,0.77,0.87)/rgb(0.62,0.80,0.88)/rgb(0.67,0.82,0.90)/rgb(0.72,0.85,0.91)/rgb(0.78,0.88,0.93)/rgb(0.83,0.90,0.94)/rgb(0.86,0.92,0.95)/rgb(0.89,0.93,0.95)/rgb(0.92,0.95,0.96)/rgb(0.95,0.96,0.97)/rgb(0.97,0.96,0.95)/rgb(0.98,0.93,0.91)/rgb(0.98,0.91,0.87)/rgb(0.99,0.89,0.83)/rgb(0.99,0.86,0.79)/rgb(0.99,0.82,0.73)/rgb(0.98,0.78,0.68)/rgb(0.97,0.73,0.62)/rgb(0.96,0.69,0.56)/rgb(0.95,0.64,0.51)/rgb(0.93,0.58,0.46)/rgb(0.90,0.53,0.42)/rgb(0.88,0.47,0.37)/rgb(0.85,0.41,0.33)/rgb(0.83,0.35,0.29)/rgb(0.80,0.29,0.26)/rgb(0.77,0.23,0.23)/rgb(0.74,0.17,0.21)/rgb(0.71,0.11,0.18)/rgb(0.65,0.08,0.16)/rgb(0.59,0.06,0.15)/rgb(0.53,0.04,0.14)/rgb(0.47,0.02,0.13)/rgb(0.40,0.00,0.12)"
+    },
+    "era5_explorer_air_temperature":
+    {
+      "contour": "off",
+      "contour_label": "off",
+      "contour_description": "Near-surface air temperature",
+      "contour_level_selection_type": "level_list",
+      "contour_level_list": "-60/-28/-27/-26/-25/-24/-23/-22/-21/-20/-19/-18/-17/-16/-15/-14/-13/-12/-11/-10/-9/-8/-7/-6/-5/-4/-3/-2/-1/0/1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37/38/39/40/60",
+      "contour_legend_text": "Surface air temperature anomaly",
+      "contour_shade": "on",
+      "contour_shade_method": "area_fill",
+      "contour_shade_colour_method": "list",
+      "contour_shade_colour_list": "#000080/#000095/#0000ab/#0000c0/#0000d5/#0d00e0/#1c00ea/#2b00f3/#3b00fc/#4a00ff/#5900ff/#6900ff/#7800ff/#720eff/#532dff/#344cff/#166aff/#0089ff/#00a7ff/#00c6ff/#00e4ff/#00fffb/#00ffdd/#00ffbf/#00ffa0/#00ff82/#1dff63/#3bff45/#5aff26/#79ff07/#90ff00/#a6ff00/#bcff00/#d1ff00/#dffe00/#e8fc00/#f1f900/#faf700/#fff300/#ffed00/#ffe600/#ffdf00/#ffd800/#ffce00/#ffc400/#ffb900/#ffaf00/#ffa400/#ff9800/#ff8d00/#ff8100/#ff7600/#ff6a00/#ff5e00/#ff5200/#ff4800/#ff3e00/#ff3400/#ff2a00/#ff2100/#ff1b00/#ff1400/#ff0d00/#ff0800/#ff0600/#ff0400/#ff0200/#ff000b/#ff0048/#ff0085/#ff00c2/#ff00ff"
     }
 }
