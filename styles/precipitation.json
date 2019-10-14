@@ -1,0 +1,14 @@
+
+[
+  {
+    "prefered_units": "mm",
+    "styles": [
+      "era5_explorer_yearly_precipitation"
+    ],
+    "match": [
+      {
+        "cds_hidden_name": "era5_explorer_yearly_precipitation"
+      }
+    ]
+  }
+]
