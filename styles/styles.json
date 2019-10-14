@@ -85,7 +85,8 @@
         "contour_description" : "Index for tourism application",
         "contour_title" : "Index for tourism application"
       },
-      "c3s_surface_air_temperature_anomaly": {
+      "c3s_surface_air_temperature_anomaly":
+      {
         "contour": "off",
         "contour_label": "off",
         "contour_description": "Surface air temperature anomaly",
