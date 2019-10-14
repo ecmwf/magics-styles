@@ -10,5 +10,17 @@
         "standard_name": "air_temperature_anomaly"
       }
     ]
+  },
+
+  {
+    "prefered_units": "K",
+    "styles": [
+      "era5_explorer_air_temperature"
+    ],
+    "match": [
+      {
+        "cds_hidden_name": "era5_explorer_air_temperature"
+      }
+    ]
   }
 ]
