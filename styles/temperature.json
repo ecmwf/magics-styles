@@ -13,7 +13,7 @@
   },
 
   {
-    "prefered_units": "K",
+    "prefered_units": "celsius",
     "styles": [
       "era5_explorer_air_temperature"
     ],
