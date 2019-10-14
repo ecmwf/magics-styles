@@ -117,11 +117,11 @@
       "contour_label": "off",
       "contour_description": "Yearly recipitation",
       "contour_level_selection_type": "level_list",
-      "contour_level_list": "0/250/500/1000/2000/4000",
+      "contour_level_list": "0/100//200/500/1000/2000/3000/4000",
       "contour_legend_text": "Yearly precipitation",
       "contour_shade": "on",
       "contour_shade_method": "area_fill",
       "contour_shade_colour_method": "list",
-      "contour_shade_colour_list": "#f4cda4/#d3e5f5/#a5cbeb/#71b1e1/#1e99d7"
+      "contour_shade_colour_list": "#00429d/#2e59a8/#4771b2/#5d8abd/#73a2c6/#8abccf/#a5d5d8/#c5eddf/#ffffe0"
     }
 }
