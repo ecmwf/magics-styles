@@ -1,0 +1,14 @@
+
+[
+  {
+    "prefered_units": "K",
+    "styles": [
+      "c3s_surface_air_temperature_anomaly"
+    ],
+    "match": [
+      {
+        "standard_name": "air_temperature_anomaly"
+      }
+    ]
+  }
+]
