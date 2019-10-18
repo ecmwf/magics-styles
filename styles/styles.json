@@ -122,6 +122,6 @@
       "contour_shade": "on",
       "contour_shade_method": "area_fill",
       "contour_shade_colour_method": "list",
-      "contour_shade_colour_list": "#00429d/#2e59a8/#4771b2/#5d8abd/#73a2c6/#8abccf/#a5d5d8/#c5eddf/#ffffe0"
+      "contour_shade_colour_list": "#ffffe0/#c5eddf/#a5d5d8/#8abccf/#73a2c6/#5d8abd/#4771b2/#2e59a8/#00429d"
     }
 }
