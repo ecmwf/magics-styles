@@ -123,5 +123,243 @@
       "contour_shade_method": "area_fill",
       "contour_shade_colour_method": "list",
       "contour_shade_colour_list": "#ffffe0/#c5eddf/#a5d5d8/#8abccf/#73a2c6/#5d8abd/#4771b2/#2e59a8/#00429d"
-    }
+    },
+    "geff-fire-weather-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-build-up-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-danger-risk" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-drought-code" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-duff-moisture-code" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-initual-fire-spread-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-fine-fuel-moisture-code" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-fire-daily-severity-rating" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-keetch-byram-drought-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-drought-factor" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-rate-of-spread" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-fire-danger-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-spread-component" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-energy_release_component" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-burning-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "geff-ignition-component-ndex" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "0.0/10/20/30/40/50/60/70/80/90/100",
+      "contour_interpolation_floor" : 0.00,
+      "contour_interpolation_ceiling" : 200.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#ffffe0/#fddac0/#fab49e/#f78c7b/#f45c51/#ed0000/#be0000/#910000/#670000/#3f0000",
+      "contour_description" : "Index for geff application",
+      "contour_title" : "Index for geff fire application"
+    },
+    "utci-Universal-thermal-climate-index" :    
+    {
+      "contour" :  "off",
+      "contour_shade" :  "on",
+      "contour_level_selection_type"  :  "list",
+      "contour_level_list": "-100/-40/-27/-13/0/9/26/32/38/46/100",
+      "contour_interpolation_floor" : -100,
+      "contour_interpolation_ceiling" : 100.00,
+      "contour_shade_method" : "area_fill",
+      "contour_shade_colour_method" : "list",
+      "contour_shade_colour_list" : "#000080/#0000C0/#0000FF/#0060FF/#00C0FF/#00C000/#FF8000/#FF0000/#C00000/#800000",
+      "contour_description" : "Index for utci application",
+      "contour_title" : "Index for utci thermal heat stress application"
+    },
 }

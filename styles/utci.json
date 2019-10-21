@@ -1,0 +1,14 @@
+
+[
+  {
+    "styles": [
+      "utci-universal-thermal-climate-index"
+    ],
+    "match": [
+      {
+         "title" : "Universal Thermal Climate Index"
+         "title" : "Universal thermal climate index"
+      }
+    ]
+  }
+]

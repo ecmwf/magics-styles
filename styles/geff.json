@@ -2,15 +2,159 @@
 [
   {
     "styles": [
-      "tourism-fire-index"
+      "geff-fire-weather-index"
     ],
     "match": [
-      
       {
          "title" : "Fire Weather Index",
          "title" : "Fire weather index"
       }
     ]
+  },
+  {
+    "styles": [
+      "geff-build-up-index"
+    ],
+    "match": [
+      {
+         "title" : "Build-up Index"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-danger-risk"
+    ],
+    "match": [
+      {
+         "title" : "Danger Risk Class"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-drought-code"
+    ],
+    "match": [
+      {
+         "title" : "Drought Code"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-duff-moisture-code"
+    ],
+    "match": [
+      {
+         "title" : "Duff Moisture Content"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-initial-fire-spread-index"
+    ],
+    "match": [
+      {
+         "title" : "Initial Spread Index"
+      }
+    ]
+  },{
+    "styles": [
+      "geff-fine-fuel-moisture-code"
+    ],
+    "match": [
+      {
+         "title" : "Fine Fuel Moisture Content"
+      }
+    ]
+  },{
+    "styles": [
+      "geff-fire-daily-severity-rating"
+    ],
+    "match": [
+      {
+         "title" : "Daily Severity Rating"
+      }
+    ]
+  },{
+    "styles": [
+      "geff-keetch-byram-drought-index"
+    ],
+    "match": [
+      {
+         "title" : "keetch-Byram drought index"
+      }
+    ]
+  },{
+    "styles": [
+      "geff-drought-factor"
+    ],
+    "match": [
+      {
+         "title" : "Mark5 drought factor"
+      }
+    ]
   }
-   
+  ,{
+    "styles": [
+      "geff-rate-of-spread"
+    ],
+    "match": [
+      {
+         "title" : "Mark5 Rate of Spread for slope theta"
+      }
+    ]
+  }
+  ,{
+    "styles": [
+      "geff-fire-danger-index"
+    ],
+    "match": [
+      {
+         "title" : "Mark5 fire danger index"
+      }
+    ]
+  }
+  ,{
+    "styles": [
+      "geff-spread-component"
+    ],
+    "match": [
+      {
+         "title" : "Spread component"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-energy-release-component"
+    ],
+    "match": [
+      {
+         "title" : "Energy Release Component"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-burning-index"
+    ],
+    "match": [
+      {
+         "title" : "Burning Index"
+      }
+    ]
+  },
+  {
+    "styles": [
+      "geff-ignition-component"
+    ],
+    "match": [
+      {
+         "title" : "Ignition Probability"
+      }
+    ]
+  }
 ]
